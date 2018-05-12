@@ -1,0 +1,32 @@
+_repo: The-Right-to-Privacy_37368
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brandeis, Louis Dembitz
+    alias: Brandeis, Louis D. (Louis Dembitz)
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '38801'
+    url: http://www.gutenberg.org/2009/agents/38801
+  - agent_name: Warren, Samuel D. (Samuel Dennis)
+    birthdate: 1852
+    deathdate: 1910
+    gutenberg_agent_id: '38800'
+    url: http://www.gutenberg.org/2009/agents/38800
+description: ''
+gutenberg_issued: '2011-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Privacy, Right of'
+- !lcc 'K'
+title: The Right to Privacy
+url: http://www.gutenberg.org/ebooks/37368
